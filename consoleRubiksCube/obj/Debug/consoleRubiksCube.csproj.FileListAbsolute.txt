@@ -1,0 +1,21 @@
+C:\Users\edcak\AppData\Local\Temporary Projects\consoleRubiksCube\bin\Debug\consoleRubiksCube.exe.config
+C:\Users\edcak\AppData\Local\Temporary Projects\consoleRubiksCube\bin\Debug\consoleRubiksCube.exe
+C:\Users\edcak\AppData\Local\Temporary Projects\consoleRubiksCube\bin\Debug\consoleRubiksCube.pdb
+C:\Users\edcak\AppData\Local\Temporary Projects\consoleRubiksCube\obj\Debug\consoleRubiksCube.csprojAssemblyReference.cache
+C:\Users\edcak\AppData\Local\Temporary Projects\consoleRubiksCube\obj\Debug\consoleRubiksCube.csproj.CoreCompileInputs.cache
+C:\Users\edcak\AppData\Local\Temporary Projects\consoleRubiksCube\obj\Debug\consoleRubiksCube.exe
+C:\Users\edcak\AppData\Local\Temporary Projects\consoleRubiksCube\obj\Debug\consoleRubiksCube.pdb
+D:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\bin\Debug\consoleRubiksCube.exe.config
+D:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\bin\Debug\consoleRubiksCube.exe
+D:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\bin\Debug\consoleRubiksCube.pdb
+D:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\obj\Debug\consoleRubiksCube.csprojAssemblyReference.cache
+D:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\obj\Debug\consoleRubiksCube.csproj.CoreCompileInputs.cache
+D:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\obj\Debug\consoleRubiksCube.exe
+D:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\obj\Debug\consoleRubiksCube.pdb
+S:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\bin\Debug\consoleRubiksCube.exe.config
+S:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\bin\Debug\consoleRubiksCube.exe
+S:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\bin\Debug\consoleRubiksCube.pdb
+S:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\obj\Debug\consoleRubiksCube.csprojAssemblyReference.cache
+S:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\obj\Debug\consoleRubiksCube.csproj.CoreCompileInputs.cache
+S:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\obj\Debug\consoleRubiksCube.exe
+S:\School\GCSE\Computing\console_stuff\consoleRubiksCube\consoleRubiksCube\obj\Debug\consoleRubiksCube.pdb
